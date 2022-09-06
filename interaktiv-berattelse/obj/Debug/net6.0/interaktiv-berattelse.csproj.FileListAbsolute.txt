@@ -1,0 +1,15 @@
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\bin\Debug\net6.0\interaktiv-berattelse.exe
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\bin\Debug\net6.0\interaktiv-berattelse.deps.json
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\bin\Debug\net6.0\interaktiv-berattelse.runtimeconfig.json
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\bin\Debug\net6.0\interaktiv-berattelse.dll
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\bin\Debug\net6.0\interaktiv-berattelse.pdb
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.csproj.AssemblyReference.cache
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.dll
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\refint\interaktiv-berattelse.dll
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.pdb
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\interaktiv-berattelse.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\pragermerin\interaktiv-berattelse\interaktiv-berattelse\obj\Debug\net6.0\ref\interaktiv-berattelse.dll
